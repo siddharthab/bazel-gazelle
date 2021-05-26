@@ -12,8 +12,6 @@ Extending Gazelle
 .. _proto godoc: https://godoc.org/github.com/bazelbuild/bazel-gazelle/language/proto
 .. _proto.GetProtoConfig: https://godoc.org/github.com/bazelbuild/bazel-gazelle/language/proto#GetProtoConfig
 .. _proto.Package: https://godoc.org/github.com/bazelbuild/bazel-gazelle/language/proto#Package
-.. _rules_sass: https://github.com/bazelbuild/rules_sass
-.. _#75: https://github.com/bazelbuild/rules_sass/pull/75
 .. _bazel_rules_nodejs_contrib: https://github.com/ecosia/bazel_rules_nodejs_contrib#build-file-generation
 .. _#803: https://github.com/bazelbuild/bazel-gazelle/issues/803
 
